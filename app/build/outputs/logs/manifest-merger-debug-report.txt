@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0c1339d20848e01f3364a01cdca5562a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9be579203ba5e91f6ff0351112f14b81\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\837fb801048b834c6fa5d681034cfb4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4664e056d642db4ca46654123a6e6c89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5a1cb21542c0d92a07a1e73ca944ec70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9b0a503e2996b6e8bffc7fe80bc6a746\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\45ea0f29f3a8145182a9a6783a51ba60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6912b3b3f267ad99e839bfe71559451b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a907a01420e11a3d01239fbc84893488\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\173ff93db052bcfd79eb5f6d3170f336\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e386912cb87c2c75127bd9b1562d349a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\614805186ff66c3f6723e85b1baad8d9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission-sdk-23#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:12:5-83
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:12:29-80
+application
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:14:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9be579203ba5e91f6ff0351112f14b81\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9be579203ba5e91f6ff0351112f14b81\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.sarth.mqtt.MainActivity
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:25:27-74
+receiver#com.example.sarth.mqtt.AlarmReceiver
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:29:19-48
+intent-filter#action:name:android.media.action.DISPLAY_NOTIFICATION+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.media.action.DISPLAY_NOTIFICATION
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:31:17-84
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:31:25-81
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:33:27-73
+service#org.eclipse.paho.android.service.MqttService
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:37:9-88
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:37:18-77
+activity#com.example.sarth.mqtt.Pre_Programming
+ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:39:9-62
+	android:name
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml:39:19-50
+uses-sdk
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0c1339d20848e01f3364a01cdca5562a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\0c1339d20848e01f3364a01cdca5562a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9be579203ba5e91f6ff0351112f14b81\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\9be579203ba5e91f6ff0351112f14b81\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\837fb801048b834c6fa5d681034cfb4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\837fb801048b834c6fa5d681034cfb4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4664e056d642db4ca46654123a6e6c89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4664e056d642db4ca46654123a6e6c89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5a1cb21542c0d92a07a1e73ca944ec70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5a1cb21542c0d92a07a1e73ca944ec70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9b0a503e2996b6e8bffc7fe80bc6a746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9b0a503e2996b6e8bffc7fe80bc6a746\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\45ea0f29f3a8145182a9a6783a51ba60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\45ea0f29f3a8145182a9a6783a51ba60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6912b3b3f267ad99e839bfe71559451b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6912b3b3f267ad99e839bfe71559451b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a907a01420e11a3d01239fbc84893488\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a907a01420e11a3d01239fbc84893488\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\173ff93db052bcfd79eb5f6d3170f336\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\173ff93db052bcfd79eb5f6d3170f336\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e386912cb87c2c75127bd9b1562d349a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e386912cb87c2c75127bd9b1562d349a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\614805186ff66c3f6723e85b1baad8d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Palak\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\614805186ff66c3f6723e85b1baad8d9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Palak\Downloads\MQTT\app\src\main\AndroidManifest.xml
